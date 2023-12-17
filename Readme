@@ -1,0 +1,8 @@
+Write a program that inputs a five-digit integer, separates the integer into its digits and prints them separated by a comma each. For example, if the user types in
+
+42339
+
+the program should print:
+
+4,2,3,3,9
+
